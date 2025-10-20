@@ -140,14 +140,6 @@ Responsive design ensures cross-browser compatibility:contentReference[oaicite:9
 
 ---
 
-## 🖼️ Screenshots & Demos
-> *(Add screenshots from Templates Sim Nav or live deployment here)*  
-> Example:  
-> ![Login Page](docs/login_screenshot.png)  
-> ![Simulation Dashboard](docs/dashboard_preview.png)
-
----
-
 ## 🏁 Next Steps
 - 🧠 Integrate LLM-based analytics assistant (OpenAI API)  
 - 📊 Embed Power BI dashboards into the app  
